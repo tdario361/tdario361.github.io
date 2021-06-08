@@ -17,7 +17,7 @@
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  it-it
+lang:                  it
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 Tdario361
@@ -25,9 +25,9 @@ title:                 Tdario361
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Sito personale che raccoglie progetti, idee, link, commenti, ecc... Questo sarà un Wonk In Progress fino all'abbandono!
+  Sito personale che raccoglie progetti, idee, link, commenti, ecc... Questo sarà un Wonk In Progress fino a che non sarà abbandonato!
 # A shorter description for the sidebar.
-tagline:               Questo sarà un Wonk In Progress fino all'abbandono!
+tagline:               Questo sarà un Wonk In Progress fino a che non sarà abbandonato!
 
 # A list of keywords for your blog
 keywords:              [progetti, idee, link, commenti]
@@ -40,25 +40,25 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <Dario> <T361>
-  email:               <tdario@361.me>
+  name:                Dario T361
+  email:               tdario@361.me
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
-#  - title:             Example
-#    url:               /example/
-#  - title:             Documentation
-#    url:               /docs/
-#  - title:             About
-#    url:               /about/
-  - title:             Sezione
-    url:               /sezione/
-  - title:             Sottosezione
-    url:               /sottosezione/
-  - title:             Contatti
-    url:               /contatti/
+  - title:             Example
+    url:               /example/
+  - title:             Documentation
+    url:               /docs/
+  - title:             About
+    url:               /about/
+#  - title:             Sezione
+#    url:               /sezione/
+#  - title:             Sottosezione
+#    url:               /sottosezione/
+#  - title:             Contatti
+#    url:               /contatti/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
