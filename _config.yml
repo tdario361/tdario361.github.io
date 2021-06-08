@@ -118,7 +118,7 @@ font_heading:          Helvetica, Arial, sans-serif
 
 # The font used for code blocks. Expects a string that is a valid CSS font-family value.
 #font_code:             Fira Code, Menlo, Monaco, Consolas, monospace;
-font_code:             monospace;
+font_code:             monospace
 
 defaults:
   # You can use this to provide a default accent color and background for
